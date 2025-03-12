@@ -1,8 +1,8 @@
 # coder
 Aqui, irei colocar meus códigos para demonstrar minha evolução como programador.
 # python
-[poing game]() 
+[poing game](python/poing_game/poing.py) 
 neste codigo eu pratico um pouco da biblioteca do python especializa para games a *pygame*
 
-[calculadora simples]()
+[calculadora simples](python/calculadora/calculadora.py)
 uma calculadora simples com uma interface iterativa
