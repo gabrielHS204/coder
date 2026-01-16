@@ -1,0 +1,12 @@
+speechrecognition
+pyaudio
+pyttsx3
+keyboard
+selenium
+webdriver-manager
+os
+time
+threading
+webbrowser
+speechrecognition
+keyboard
