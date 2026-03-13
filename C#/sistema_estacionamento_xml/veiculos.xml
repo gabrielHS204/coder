@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Veiculos>
+  <Veiculo>
+    <Placa>AAAAAAA</Placa>
+    <Modelo>palio</Modelo>
+    <Marca>fiat</Marca>
+    <Proprietario>maria</Proprietario>
+    <Cor>vermelho</Cor>
+    <Preferencial>true</Preferencial>
+    <HoraDeEntrada>2025-06-19T22:20:00.3447179-03:00</HoraDeEntrada>
+  </Veiculo>
+  <Veiculo>
+    <Placa>BBBBBBB</Placa>
+    <Modelo>modelo9</Modelo>
+    <Marca>marca6</Marca>
+    <Proprietario>pessoa2</Proprietario>
+    <Cor>azul</Cor>
+    <Preferencial>true</Preferencial>
+    <HoraDeEntrada>2025-06-19T22:25:59.4145596-03:00</HoraDeEntrada>
+  </Veiculo>
+</Veiculos>

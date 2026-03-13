@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guisa\\Documents\\GitHub\\coder\\C#\\sistema_estacionamento_xml\\AED_Sistema-de-Estacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\guisa\\Documents\\GitHub\\AED_Sistema-de-Estacionamento\\AED_Sistema-de-Estacionamento.csproj",
       "projectName": "AED_Sistema-de-Estacionamento",
-      "projectPath": "C:\\Users\\guisa\\Documents\\GitHub\\coder\\C#\\sistema_estacionamento_xml\\AED_Sistema-de-Estacionamento.csproj",
+      "projectPath": "C:\\Users\\guisa\\Documents\\GitHub\\AED_Sistema-de-Estacionamento\\AED_Sistema-de-Estacionamento.csproj",
       "packagesPath": "C:\\Users\\guisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guisa\\Documents\\GitHub\\coder\\C#\\sistema_estacionamento_xml\\obj\\",
+      "outputPath": "C:\\Users\\guisa\\Documents\\GitHub\\AED_Sistema-de-Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
