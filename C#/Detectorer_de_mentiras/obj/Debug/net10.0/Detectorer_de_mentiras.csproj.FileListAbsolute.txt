@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\bin\Debug\net10.0\Detectorer_de_mentiras.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\bin\Debug\net10.0\Detectorer_de_mentiras.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\bin\Debug\net10.0\Detectorer_de_mentiras.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\bin\Debug\net10.0\Detectorer_de_mentiras.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\bin\Debug\net10.0\Detectorer_de_mentiras.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\refint\Detectorer_de_mentiras.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\Detectorer_de_mentiras.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\Detectorer_de_mentiras\obj\Debug\net10.0\ref\Detectorer_de_mentiras.dll

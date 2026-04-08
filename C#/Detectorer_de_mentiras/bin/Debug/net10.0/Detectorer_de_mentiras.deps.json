@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Detectorer_de_mentiras/1.0.0": {
+        "runtime": {
+          "Detectorer_de_mentiras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Detectorer_de_mentiras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

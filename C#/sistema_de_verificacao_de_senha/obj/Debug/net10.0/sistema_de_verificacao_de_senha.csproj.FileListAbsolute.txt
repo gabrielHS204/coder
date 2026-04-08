@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\bin\Debug\net10.0\sistema_de_verificacao_de_senha.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\bin\Debug\net10.0\sistema_de_verificacao_de_senha.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\bin\Debug\net10.0\sistema_de_verificacao_de_senha.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\bin\Debug\net10.0\sistema_de_verificacao_de_senha.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\bin\Debug\net10.0\sistema_de_verificacao_de_senha.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\refint\sistema_de_verificacao_de_senha.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\sistema_de_verificacao_de_senha.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\coder\C#\sistema_de_verificacao_de_senha\obj\Debug\net10.0\ref\sistema_de_verificacao_de_senha.dll

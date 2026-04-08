@@ -26,6 +26,11 @@ Sistema de gerenciamento de estacionamento desenvolvido em equipe durante a grad
 [Link para o projeto](C#/sistema_de_mercado)  
 Projeto pessoal em desenvolvimento voltado à criação de um sistema de gerenciamento de produtos para mercado. O sistema tem como foco o controle de estoque, organização de itens e otimização de processos comerciais, aplicando boas práticas de desenvolvimento e modelagem de dados.
 
+### Detector de mentiras
+[Link para o projeto](C#/Detectorer_de_mentiras/Program.cs)
+Este projeto simula um detector de veracidade em C#, analisando entradas do usuário com base em padrões simples e retornando resultados de forma interativa.
+Ele utiliza lógica de programação, controle de fluxo e aleatoriedade para criar a sensação de uma análise inteligente no terminal.
+
 ---
 
 ## Objetivo
